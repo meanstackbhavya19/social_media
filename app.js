@@ -7,5 +7,5 @@ app.get('/',(req,res)=>{
 
 const PORT=3000
 app.listen(3000,()=>{
-    console.log("app is running")
+    console.log("app is running on server")
 })
